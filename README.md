@@ -14,7 +14,6 @@ This Java program implements a sleek and user-friendly Library Management System
 7. **Display Borrowed Books:** 📚 View details of currently borrowed books with a stylish presentation.
 8. **Display Borrowed Books Queue:** 📊 Visualize the queue of borrowed books in a neat format.
 9. **View Book Details:** 📌 Get detailed information about a specific book by entering its ID.
-10. **Exit:** 🚪 Gracefully terminate the program.
 
 ## 🤝 Contributing
 Contributions are welcomed with open arms! Feel free to open issues or submit pull requests to enhance or fix any issues in the system.
